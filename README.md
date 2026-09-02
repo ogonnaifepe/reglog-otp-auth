@@ -17,9 +17,7 @@ python test_simple.py
 
 
 
-#to start the application
-
-
+# To Start the application
 python run.py
 
 
