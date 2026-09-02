@@ -19,11 +19,3 @@ ALTER USER getby DEFAULT TABLESPACE RUBIKONDAT01;
 
 
 
-
-user creted via registration API:
-
-{
-  "email": "ogonnaifepe@gmail.com",
-  "password": "stringst",
-  "confirm_password": "stringst"
-}
